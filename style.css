@@ -1,0 +1,122 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    background-color:azure;
+    font-family: 'Dancing Script', cursive;
+}
+.navbar{
+   width: 100%;
+   display: flex;
+   justify-content: space-between;
+   align-items: center;
+   height: 130px;
+}
+.navbar>img{
+    width: 200px;
+    height: 130px;
+}
+.list{
+    list-style: none;
+    display: inline;
+    color: rgb(70, 11, 126);
+}
+.link{
+    text-decoration: none;
+    margin: 0px 20px;
+    font-weight: bold;
+    color: rgb(70, 11, 126);
+}
+header{
+    width: 100%;
+    height: 500px;
+    background: url(https://www.mashed.com/img/gallery/30-best-ice-cream-flavors-ranked-from-worst-to-best/l-intro-1654092923.jpg);
+    background-size: cover;
+}
+.one{
+    border: 1px solid black;
+    margin-left: 200px;
+    border-radius: 20px;
+    align-items: center;
+    padding: 10px;
+    width: 900px;
+    height: 300px;
+    background-color: skyblue;
+}
+.two{
+    border: 1px solid black;
+    margin-left: 200px;
+    border-radius: 20px;
+    align-items: center;
+    padding: 10px;
+    width: 900px;
+    height: 300px;
+    background-color: skyblue;
+}
+.three{
+    border: 1px solid black;
+    margin-left: 200px;
+    border-radius: 20px;
+    align-items: center;
+    padding: 10px;
+    width: 900px;
+    height: 300px;
+    background-color: skyblue;
+
+}
+.four{
+
+    border: 1px solid black;
+    margin-left: 200px;
+    border-radius: 20px;
+    align-items: center;
+    padding: 10px;
+    width: 900px;
+    height: 300px;
+    background-color: skyblue;
+}
+.five{
+
+    border: 1px solid black;
+    margin-left: 200px;
+    border-radius: 20px;
+    align-items: center;
+    padding: 10px;
+    width: 900px;
+    height: 300px;
+    background-color: skyblue;
+}
+.container{
+    width:70px;
+    height: 300px;
+    margin: 30px;
+    padding: 10px;
+    background-color: chocolate;
+    text-align: center;
+}
+div:hover h4{
+    color: brown;
+}
+.footer{
+    display: flex;
+    justify-content: space-around;
+    align-items:center ;
+    margin: 30px 20px;
+    height: 150px;
+}
+.contact{
+    display: block;
+    text-align: center;
+    
+    
+}
+.email{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.phone{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
